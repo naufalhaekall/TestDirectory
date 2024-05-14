@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lihat Program</name>
+   <tag></tag>
+   <elementGuidId>a6b39cc9-366f-4974-878d-f5247d4279f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Lihat Program&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>73ce467f-dec9-49d8-8983-f94eacac88e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#section-lihat-program</value>
+      <webElementGuid>375a1101-1431-423c-b383-12ce2f6a16f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-[165px] items-center justify-center text-base font-bold transition delay-75 bg-white rounded-md text-cerulean-600 py-3 px-6 hover:bg-cerulean-100 hover:ring-cerulean-600</value>
+      <webElementGuid>f03ff3d7-780a-4c71-985d-1b8377fd87c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Program</value>
+      <webElementGuid>eeb0f06a-ac16-4a08-95a9-bf8255b37102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;mx-auto pb-10 lg:pb-[108px] bg-opacity-50 mb-5&quot;]/div[@class=&quot;h-auto mx-auto&quot;]/div[@class=&quot;relative px-8 lg:px-[108px] pt-[138px] pb-6 sm:pb-[60px] lg:pt-[186px]&quot;]/div[@class=&quot;flex flex-col gap-[60px]&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/button[@class=&quot;max-w-[165px] items-center justify-center text-base font-bold transition delay-75 bg-white rounded-md text-cerulean-600 py-3 px-6 hover:bg-cerulean-100 hover:ring-cerulean-600&quot;]</value>
+      <webElementGuid>387eb683-2304-4b85-a062-1784f409df69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>0750e36a-436f-49bf-b507-3f642e5adb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='with Metrodata Academy'])[1]/following::button[1]</value>
+      <webElementGuid>f3243ec4-5778-4eaa-8887-c7c1e95fe5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelatih &amp; Sertifikat TI'])[1]/preceding::button[1]</value>
+      <webElementGuid>d006bf2a-d0f3-4f5c-ba4b-0dd803100388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/button</value>
+      <webElementGuid>75f96fd4-06ed-4a95-b393-02f7f9ca762c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = '#section-lihat-program' and (text() = 'Lihat Program' or . = 'Lihat Program')]</value>
+      <webElementGuid>58685b08-9626-4b2a-ba2c-1d371435c186</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

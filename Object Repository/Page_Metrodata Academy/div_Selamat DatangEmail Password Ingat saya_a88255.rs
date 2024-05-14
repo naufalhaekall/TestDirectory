@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selamat DatangEmail Password Ingat saya_a88255</name>
+   <tag></tag>
+   <elementGuidId>30aa3116-1ebd-4153-8b7c-12cfdcf959fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Selamat DatangEmail *Password *Ingat sayaLupa Password?MasukBelum punya akun Met&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7fdc2fe5-0011-4b2e-9745-ac010a222c55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col justify-center w-screen p-8 lg:w-3/4 gap-[23px]</value>
+      <webElementGuid>e54de53d-4c51-4dff-90ae-31c8826c2590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat DatangEmail *Password *Ingat sayaLupa Password?MasukBelum punya akun Metrodata Academy? Daftar Sekarang</value>
+      <webElementGuid>13686eb7-9b6c-4066-8345-102cb8dc12e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid h-screen grid-cols-1 lg:grid-cols-2&quot;]/div[@class=&quot;flex flex-col justify-center items-center gap-10&quot;]/div[@class=&quot;flex flex-col justify-center w-screen p-8 lg:w-3/4 gap-[23px]&quot;]</value>
+      <webElementGuid>209cd6e1-d37f-43c9-9ffe-0640cc62bb35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div</value>
+      <webElementGuid>df8f36e6-a30b-4338-9a27-effc16d10c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>f320fcd5-c1c9-49c4-bb80-ba16e2b796cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Selamat DatangEmail *Password *Ingat sayaLupa Password?MasukBelum punya akun Metrodata Academy? Daftar Sekarang' or . = 'Selamat DatangEmail *Password *Ingat sayaLupa Password?MasukBelum punya akun Metrodata Academy? Daftar Sekarang')]</value>
+      <webElementGuid>0df23113-62ec-4139-8578-52c488691251</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
